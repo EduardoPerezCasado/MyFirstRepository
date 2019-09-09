@@ -7,3 +7,5 @@ Color pelo: negro.
 Fecha naci: 10-3.
 
 Característica: diestro.
+
+Color ojos: negros.
